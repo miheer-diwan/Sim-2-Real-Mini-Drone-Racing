@@ -6,7 +6,7 @@
 The task was to autonomously detect a square window and fly through the center of the window in a given environment autonomously. Check the Report for an in-depth explanation: 
 
 **The catch:** The training for the detection model had to be done entirely on simulated data.
-[Report.pdf](https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/files/15256393/Report.pdf)
+[Report.pdf](Report.pdf)
 
 ### The problem can be divided into four parts:
 1. Data Generation
