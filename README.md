@@ -11,3 +11,4 @@ Project 3a Fall 23 Aerial Robotics
 
 https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/assets/79761017/7def7f6c-596a-4034-b03f-d7c7821fca13
 
+https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/blob/4acd19f02c9d11a07f8e014caf83d732b3ac6405/PnP_output.mp4
