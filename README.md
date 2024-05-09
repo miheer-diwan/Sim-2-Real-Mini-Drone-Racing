@@ -3,10 +3,13 @@
 ## This project is a part of "[RBE 595: Hands-On Autonomous Aerial Robotics](https://pear.wpi.edu/teaching/rbe595/fall2023.html) taught by [Prof. Nitin Sanket](https://nitinjsanket.github.io/index.html) in Fall 2023 at Worcester Polytechnic Institute
 
 ### Introduction: 
-The task was to autonomously detect a square window and fly through the center of the window in a given environment autonomously. Check the Report for an in-depth explanation: 
+The task was to autonomously detect a square window and fly through the center of the window in a given environment autonomously. 
+
 
 **The catch:** The training for the detection model had to be done entirely on simulated data.
-[Report.pdf](Report.pdf)
+
+Check the Report for an in-depth explanation: [Report.pdf](Report.pdf)
+
 
 ### The problem can be divided into four parts:
 1. Data Generation
