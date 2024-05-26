@@ -1,6 +1,6 @@
 # Sim-2-Real Mini Drone Racing
 
-## This project is a part of "[RBE 595: Hands-On Autonomous Aerial Robotics](https://pear.wpi.edu/teaching/rbe595/fall2023.html) taught by [Prof. Nitin Sanket](https://nitinjsanket.github.io/index.html) in Fall 2023 at Worcester Polytechnic Institute
+## This project is a part of "[RBE 595: Hands-On Autonomous Aerial Robotics]"(https://pear.wpi.edu/teaching/rbe595/fall2023.html) taught by [Prof. Nitin Sanket](https://nitinjsanket.github.io/index.html) in Fall 2023 at Worcester Polytechnic Institute
 
 ### Introduction: 
 The task was to autonomously detect a square window and fly through the center of the window in a given environment autonomously. 
