@@ -43,3 +43,9 @@ https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/assets/79761017/7de
 ### Pose Estimation Output with Blender Environment
 https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/assets/79761017/80f1c210-ef7b-489a-be07-30a9df0560e6
 
+### Video Run:
+https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/assets/79761017/3124f752-78dd-4c63-9f96-9989577236c7
+
+
+
+
