@@ -1,8 +1,6 @@
 # Sim-2-Real Mini Drone Racing
 
-## This project is a part of ["RBE 595: Hands-On Autonomous Aerial Robotics"](https://pear.wpi.edu/teaching/rbe595/fall2023.html) taught by [Prof. Nitin Sanket](https://nitinjsanket.github.io/index.html) in Fall 2023 at Worcester Polytechnic Institute
-
-### Introduction: 
+## Introduction: 
 The task was to autonomously detect a square window and fly through the center of the window in a given environment autonomously. 
 
 
@@ -37,15 +35,15 @@ Check the Report for an in-depth explanation: [Report.pdf](Report.pdf)
 **4. Pose Estimation:**
 - After testing the model on frames captured from the drone's camera, we got accurate segmentation masks and the four corners for the windows in the environments. The next step was to use OpenCV's SolvePnP function to get the pose in real world so the drone could be commanded to fly through the gate.
 
-### YOLOv8 Instance Segmentation Output on Drone Camera Frames
+## YOLOv8 Instance Segmentation Output on Drone Camera Frames
 https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/assets/79761017/7def7f6c-596a-4034-b03f-d7c7821fca13
 
-### Pose Estimation Output with Blender Environment
+## Pose Estimation Output with Blender Environment
 https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/assets/79761017/80f1c210-ef7b-489a-be07-30a9df0560e6
 
-### Video Run:
+## Video Run:
 https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/assets/79761017/3124f752-78dd-4c63-9f96-9989577236c7
 
-
-
+## References:
+["RBE 595: Hands-On Autonomous Aerial Robotics"](https://pear.wpi.edu/teaching/rbe595/fall2023.html) 
 
