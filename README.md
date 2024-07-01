@@ -45,5 +45,5 @@ https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/assets/79761017/80f
 https://github.com/miheer-diwan/Sim-2-Real-Mini-Drone-Racing/assets/79761017/3124f752-78dd-4c63-9f96-9989577236c7
 
 ## References:
-["RBE 595: Hands-On Autonomous Aerial Robotics"](https://pear.wpi.edu/teaching/rbe595/fall2023.html) 
+[RBE 595: Hands-On Autonomous Aerial Robotics - Fall 2023](https://pear.wpi.edu/teaching/rbe595/fall2023.html) 
 
