@@ -15,7 +15,7 @@ Check the Report for an in-depth explanation: [Report.pdf](Report.pdf)
 3. Deployment and Testing
 4. Window Pose Estimation
 
-### Detailed Explanation for each task:
+## Implementation:
 
 **1. Data generation and Augmentation**
 - For this task, I created a model of the window in Blender. By randomly spawning the window in different poses I could capture images to create my training data set. 
